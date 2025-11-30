@@ -1,1 +1,4 @@
-<Solution />
+<Solution>
+  <Project Path="Brainfuck.Tests/Brainfuck.Tests.csproj" />
+  <Project Path="Brainfuck/Brainfuck.csproj" />
+</Solution>
