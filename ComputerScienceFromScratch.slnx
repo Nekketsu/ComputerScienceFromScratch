@@ -1,4 +1,6 @@
 <Solution>
   <Project Path="Brainfuck.Tests/Brainfuck.Tests.csproj" />
   <Project Path="Brainfuck/Brainfuck.csproj" />
+  <Project Path="NanoBASIC.Tests/NanoBASIC.Tests.csproj" />
+  <Project Path="NanoBASIC/NanoBASIC.csproj" />
 </Solution>
