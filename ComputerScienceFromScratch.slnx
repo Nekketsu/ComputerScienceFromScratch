@@ -1,6 +1,10 @@
 <Solution>
   <Project Path="Brainfuck.Tests/Brainfuck.Tests.csproj" />
   <Project Path="Brainfuck/Brainfuck.csproj" />
+  <Project Path="Chip8/Chip8.csproj" />
+  <Project Path="Impressionist/Impressionist.csproj" />
   <Project Path="NanoBASIC.Tests/NanoBASIC.Tests.csproj" />
   <Project Path="NanoBASIC/NanoBASIC.csproj" />
+  <Project Path="RetroDither.Tests/RetroDither.Tests.csproj" />
+  <Project Path="RetroDither/RetroDither.csproj" />
 </Solution>
