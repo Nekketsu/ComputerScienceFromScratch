@@ -5,6 +5,8 @@
   <Project Path="Impressionist/Impressionist.csproj" />
   <Project Path="NanoBASIC.Tests/NanoBASIC.Tests.csproj" />
   <Project Path="NanoBASIC/NanoBASIC.csproj" />
+  <Project Path="NESEmulator.Tests/NESEmulator.Tests.csproj" />
+  <Project Path="NESEmulator/NESEmulator.csproj" />
   <Project Path="RetroDither.Tests/RetroDither.Tests.csproj" />
   <Project Path="RetroDither/RetroDither.csproj" />
 </Solution>
