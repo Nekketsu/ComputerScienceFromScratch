@@ -3,6 +3,7 @@
   <Project Path="Brainfuck/Brainfuck.csproj" />
   <Project Path="Chip8/Chip8.csproj" />
   <Project Path="Impressionist/Impressionist.csproj" />
+  <Project Path="KNN.DigitRecognizer/KNN.DigitRecognizer.csproj" />
   <Project Path="KNN.Tests/KNN.Tests.csproj" />
   <Project Path="KNN/KNN.csproj" />
   <Project Path="NanoBASIC.Tests/NanoBASIC.Tests.csproj" />

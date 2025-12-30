@@ -43,4 +43,16 @@ public class FishTestCase
 
         Assert.Equal("Parkki", classifyFish);
     }
+
+    [Fact]
+    public void TestPredict()
+    {
+        var k = 5;
+        var fishKnn = new KNN<Fish>(dataFile);
+        var testFish = new Fish("", 0.0f, 20.0f, 23.5f, 24.0f, 10.0f, 4.0f);
+
+        var predictFish = fishKnn.Predit(k, testFish, nameof(Fish.Weight));
+
+        Assert.Equal(165.0, predictFish);
+    }
 }
