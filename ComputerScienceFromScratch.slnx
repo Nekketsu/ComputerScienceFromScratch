@@ -3,6 +3,8 @@
   <Project Path="Brainfuck/Brainfuck.csproj" />
   <Project Path="Chip8/Chip8.csproj" />
   <Project Path="Impressionist/Impressionist.csproj" />
+  <Project Path="KNN.Tests/KNN.Tests.csproj" />
+  <Project Path="KNN/KNN.csproj" />
   <Project Path="NanoBASIC.Tests/NanoBASIC.Tests.csproj" />
   <Project Path="NanoBASIC/NanoBASIC.csproj" />
   <Project Path="NESEmulator.Tests/NESEmulator.Tests.csproj" />
